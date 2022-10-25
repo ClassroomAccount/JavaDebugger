@@ -1,7 +1,7 @@
 /* Play a game of craps 10000 times and compute
  * the probability of winning.
  */
-
+//learn why the house always wins
 public class Craps {
 
 	public static void main(String[] args) {
