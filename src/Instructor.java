@@ -1,5 +1,6 @@
 /**
  * This class stores data about an instructor.
+ * Great example
  */
 
 public class Instructor {

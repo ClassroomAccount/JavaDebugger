@@ -1,5 +1,6 @@
 /**
    This program demonstrates the Course class.
+   Moderate demo of classes in Java
 */
 
 public class CourseDemo
@@ -15,7 +16,7 @@ public class CourseDemo
           new TextBook("Starting Out with Java",
                        "Gaddis", "Scott/Jones");
                        
-      // Create a Course object.
+      // Create a Course object very carefully.
       Course myCourse = 
          new Course("Intro to Java", myInstructor,
                     myTextBook);
